@@ -9,6 +9,8 @@ a markdown file (.md) suitable for publishing to GitHub is generated.
 
 ## this is a random cat
 
+![cat](https://w0.peakpx.com/wallpaper/64/62/HD-wallpaper-tom-and-jerry-v2-and-black-cartoon-childhood-hand-jerry-manipulation-tom-v2-version.jpg)
+
 You can include R code in the document as follows:
 
 ``` r
