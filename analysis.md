@@ -7,7 +7,7 @@ This is an R Markdown format used for publishing markdown documents to
 GitHub. When you click the **Knit** button all R code chunks are run and
 a markdown file (.md) suitable for publishing to GitHub is generated.
 
-## Including Code
+## this is a random cat
 
 You can include R code in the document as follows:
 
@@ -23,7 +23,7 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-## Including Plots
+## drink more water
 
 You can also embed plots, for example:
 
