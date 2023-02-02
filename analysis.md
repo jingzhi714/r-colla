@@ -1,7 +1,7 @@
 Analysis
 ================
 
-## GitHub Documents
+## This is a normal header
 
 This is an R Markdown format used for publishing markdown documents to
 GitHub. When you click the **Knit** button all R code chunks are run and
