@@ -3,33 +3,10 @@ Analysis
 
 ## This is normal header
 
-This is an R Markdown format used for publishing markdown documents to
-GitHub. When you click the **Knit** button all R code chunks are run and
-a markdown file (.md) suitable for publishing to GitHub is generated.
-
 ## this is a random cat
 
 ![cat](https://w0.peakpx.com/wallpaper/64/62/HD-wallpaper-tom-and-jerry-v2-and-black-cartoon-childhood-hand-jerry-manipulation-tom-v2-version.jpg)
 
-You can include R code in the document as follows:
-
-``` r
-summary(cars)
-```
-
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
-
 ## drink more water
 
-You can also embed plots, for example:
-
-![](analysis_files/figure-gfm/pressure-1.png)<!-- -->
-
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+![water](https://banner2.cleanpng.com/20180807/oru/kisspng-caff%C3%A8-americano-cafe-ristretto-iced-coffee-ice-cr-5b69e2499db069.0907791615336658656459.jpg)
